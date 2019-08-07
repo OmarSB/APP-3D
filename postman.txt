@@ -1,0 +1,17 @@
+
+1. consultando asignatura y actividades de un usuario:
+
+RUTA:/users
+
+2. traer actividades por id
+ 
+RUTA: /actividades
+
+3. traer asignaturas
+
+RUTA: /asignaturas
+
+
+
+
+
